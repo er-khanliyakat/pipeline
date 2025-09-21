@@ -1,1 +1,1 @@
-pri(''saasaS)
+print("Mask off")
